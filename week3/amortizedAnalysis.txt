@@ -1,0 +1,5 @@
+1. 86 cost units. The average complexity is around O(2.1n) as just before it doubles the complexity will be O(1.5n)
+and just after it will be around O(2.6n) 
+
+2. 408 cost units. The average complexity is very high as each 2 spaces increases the cost by n+1 so that it is almost constantly redoing the entire array.
+
